@@ -20,6 +20,7 @@ struct Alien
     // Adding a contruct to the Struct
     // In C++, they do not use this->
     // A good pratic is to put a underscore under the local variables
+    // Constructs do not have a return
     Alien(int _speed, int _year_time)
     {
     	speed = _speed;
