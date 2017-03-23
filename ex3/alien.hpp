@@ -35,6 +35,11 @@ public:
     {
         light_years = speed * year_time;
     }
+
+    int getLightYears()
+    {
+        return light_years;
+    }
 };
 
 #endif /* alien_hpp */

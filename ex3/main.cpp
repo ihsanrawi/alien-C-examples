@@ -16,6 +16,6 @@ int main(int argc, const char * argv[]) {
     et1.CalcLightYears();
     et2.CalcLightYears();
     
-    printf("Light Years of ET1 %d\n", et1.light_years);
-    printf("Light Years of ET2 %d\n", et2.light_years);
+    printf("Light Years of ET1 %d\n", et1.getLightYears());
+    printf("Light Years of ET2 %d\n", et2.getLightYears());
 }
