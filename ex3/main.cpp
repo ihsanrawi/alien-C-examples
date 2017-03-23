@@ -16,6 +16,7 @@ int main(int argc, const char * argv[]) {
     et1.CalcLightYears();
     et2.CalcLightYears();
     
+    // Reaplce the direct access to the variable for a getter method
     printf("Light Years of ET1 %d\n", et1.getLightYears());
     printf("Light Years of ET2 %d\n", et2.getLightYears());
 }
