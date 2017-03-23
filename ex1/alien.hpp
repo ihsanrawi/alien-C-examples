@@ -1,13 +1,13 @@
 //
-//  alien.hpp
+//  Alien.hpp
 //  
 //
 //  Created by Flavio on 21/03/17.
 //
 //
 
-#ifndef alien_hpp
-#define alien_hpp
+#ifndef Alien_hpp
+#define Alien_hpp
 
 #include <stdio.h>
 
@@ -23,4 +23,4 @@ struct Alien
     }
 };
 
-#endif /* alien_hpp */
+#endif /* Alien_hpp */

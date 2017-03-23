@@ -5,8 +5,8 @@
 //  Copyright © 2017 Flavio. All rights reserved.
 //
 
-#ifndef alien_hpp
-#define alien_hpp
+#ifndef Alien_hpp
+#define Alien_hpp
 
 #include <stdio.h>
 
@@ -33,4 +33,4 @@ struct Alien
     }
 };
 
-#endif /* alien_hpp */
+#endif /* Alien_hpp */

@@ -6,7 +6,7 @@
 //
 
 #include <iostream>
-#include "alien.hpp"
+#include "Alien.hpp"
 
 int main(int argc, const char * argv[]) {
     
